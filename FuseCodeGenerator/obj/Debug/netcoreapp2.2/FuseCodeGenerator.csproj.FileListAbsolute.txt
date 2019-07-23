@@ -1,0 +1,11 @@
+C:\Users\conta\source\repos\FuseCodeGenerator\FuseCodeGenerator\bin\Debug\netcoreapp2.2\FuseCodeGenerator.deps.json
+C:\Users\conta\source\repos\FuseCodeGenerator\FuseCodeGenerator\bin\Debug\netcoreapp2.2\FuseCodeGenerator.runtimeconfig.json
+C:\Users\conta\source\repos\FuseCodeGenerator\FuseCodeGenerator\bin\Debug\netcoreapp2.2\FuseCodeGenerator.runtimeconfig.dev.json
+C:\Users\conta\source\repos\FuseCodeGenerator\FuseCodeGenerator\bin\Debug\netcoreapp2.2\FuseCodeGenerator.dll
+C:\Users\conta\source\repos\FuseCodeGenerator\FuseCodeGenerator\bin\Debug\netcoreapp2.2\FuseCodeGenerator.pdb
+C:\Users\conta\source\repos\FuseCodeGenerator\FuseCodeGenerator\obj\Debug\netcoreapp2.2\FuseCodeGenerator.csprojAssemblyReference.cache
+C:\Users\conta\source\repos\FuseCodeGenerator\FuseCodeGenerator\obj\Debug\netcoreapp2.2\FuseCodeGenerator.csproj.CoreCompileInputs.cache
+C:\Users\conta\source\repos\FuseCodeGenerator\FuseCodeGenerator\obj\Debug\netcoreapp2.2\FuseCodeGenerator.AssemblyInfoInputs.cache
+C:\Users\conta\source\repos\FuseCodeGenerator\FuseCodeGenerator\obj\Debug\netcoreapp2.2\FuseCodeGenerator.AssemblyInfo.cs
+C:\Users\conta\source\repos\FuseCodeGenerator\FuseCodeGenerator\obj\Debug\netcoreapp2.2\FuseCodeGenerator.dll
+C:\Users\conta\source\repos\FuseCodeGenerator\FuseCodeGenerator\obj\Debug\netcoreapp2.2\FuseCodeGenerator.pdb
